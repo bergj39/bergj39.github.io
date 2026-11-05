@@ -25,6 +25,21 @@ Ik heb bewust drie Dark Tech-thema's verwerkt:
 
 Het doel hiervan is om te laten zien hoe een technologie die in eerste instantie onschuldig en vriendelijk lijkt, langzaam een andere kant kan laten zien.
 
+## Het ontwikkelen van de AI-teddybeer
+Hier zijn enige foto´s die mijn proces laten zien.
+![AI Teddy 1](images/AI%20teddy%201.png)
+
+*Figuur 1: Eerste beeld van mijn AI-teddybeer.*
+
+![AI Teddy 2](images/AI%20teddy%202.png)
+
+*Figuur 2: Verdere ontwikkeling van het prototype.*
+
+![AI Teddy 3](images/AI%20teddy%203.png)
+
+*Figuur 3: Een volgende versie van het prototype.*
+
+
 # 2. Mijn proces
 
 ## a. Welke keuzes heb ik gemaakt?
@@ -81,28 +96,20 @@ Daarnaast wil ik onderzoeken of het gesprek voldoende natuurlijk overkomt. Omdat
 
 Ook twijfel ik nog over hoe duidelijk de overgang naar de donkere kant moet zijn. Ik wil dat de gebruiker eerst vertrouwen krijgt in de teddybeer, maar uiteindelijk wel merkt dat er iets niet helemaal klopt.
 
-## Feedbackvragen aan de groep
 
-1. Komt het gesprek natuurlijk genoeg over, of merk je te duidelijk dat de reacties vooraf zijn geschreven?
-2. Is de overgang van een vriendelijke teddybeer naar een manipulatieve teddybeer duidelijk genoeg opgebouwd?
-3. Welke momenten in het gesprek maken de thema's kwetsbaarheid, surveillance en verslaving het sterkst zichtbaar?
-4. Welke informatie of gebruikerskeuzes zouden interessant zijn om achteraf te verzamelen en te analyseren?
-
-# 4. Feedback en volgende sprint
-
-De feedback die ik tijdens de werkgroep ontvang, wil ik gebruiken om het gesprek en de interactie verder te verbeteren. Vooral feedback over de geloofwaardigheid van de teddybeer en de manier waarop de donkere elementen naar voren komen, vind ik belangrijk.
+# 4. Volgende sprint
 
 In de volgende sprint wil ik mij richten op het verder ontwikkelen van de chat en het opslaan van gebruikerskeuzes. Daarnaast wil ik het prototype testen met andere gebruikers om te kijken hoe zij op de teddybeer reageren.
 
 Ook wil ik nieuw beeldmateriaal verzamelen van het prototype. Hierbij wil ik onder andere screenshots van de chat, de verschillende gespreksmomenten en foto's van de fysieke teddybeer gebruiken. Zo kan ik op mijn portfolio niet alleen het eindresultaat laten zien, maar ook mijn ontwikkeling als maker.
 
-Mijn doel voor de volgende sprint is om van de huidige basis een prototype te maken waarmee ik daadwerkelijk kan onderzoeken hoe kinderen en andere gebruikers reageren op een AI-vriend die steeds persoonlijker en manipulatiever wordt.
+Mijn doel voor de volgende sprint is om van de huidige basis een prototype te maken waarmee ik daadwerkelijk kan onderzoeken hoe kinderen en andere gebruikers reageren op een AI-teddy die steeds persoonlijker en manipulatiever wordt.
 
 ---
 
 # Mijn rol en vaardigheden
 
-**Mijn rol binnen het project:** Ik ben verantwoordelijk voor het ontwikkelen en programmeren van mijn individuele AI-teddybeerprototype.
+**Mijn rol binnen het project:** Ik ben verantwoordelijk voor het testen van het prototype en om dingen te onderzoeken. Deze sprint lag mijn rol vooral op het ontwikkelen van een verhaal voor ons prototype, dit heb ik gedaan met JS.
 
 **Skills die ik met dit project laat zien:**
 
@@ -114,4 +121,4 @@ Mijn doel voor de volgende sprint is om van de huidige basis een prototype te ma
 
 ---
 
-*Dit DevLog wordt gedurende het semester aangevuld met nieuwe sprintverslagen, beeldmateriaal, experimenten en verwerkte feedback.*
+
