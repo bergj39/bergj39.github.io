@@ -1,7 +1,7 @@
 
 # My first language model
 
-*Dark Tech Studio · 2026/2027*
+*Dark Tech Studio · Sprint 2*
 
 Een onderzoek naar de donkere kant van AI-vriendschappen en de kwetsbaarheid van kinderen.
 
@@ -128,5 +128,5 @@ Mijn doel voor de volgende sprint is om van de huidige basis een prototype te ma
 - Het verwerken van Dark Tech-thema's in een digitaal prototype
 
 ---
-
+*Sprint 1 moet ik nog toevoegen maar dat komt nog!*
 
