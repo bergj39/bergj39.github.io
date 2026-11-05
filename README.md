@@ -27,7 +27,7 @@ Het doel hiervan is om te laten zien hoe een technologie die in eerste instantie
 
 ## Het ontwikkelen van de AI-teddybeer
 Hier zijn enige foto´s die mijn proces laten zien.
-![AI Teddy 1](images/AI%20teddy%201.png)
+![AI Teddy 1](images/AI%20teddy.png)
 
 *Figuur 1: Eerste beeld van mijn AI-teddybeer.*
 
