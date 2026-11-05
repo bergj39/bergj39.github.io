@@ -40,13 +40,13 @@ Hier zijn enige foto´s die mijn proces laten zien.
 *Figuur 3: Een volgende versie van het prototype.*
 
 ### verdere afbeelding van Society
-![Afbeelding 1](images/afbeelding1.jpeg)
+![Afbeelding 1](images/Afbeelding1.jpeg)
 
-![Afbeelding 2](images/afbeelding2.jpeg)
+![Afbeelding 2](images/Afbeelding2.jpeg)
 
-![Afbeelding 3](images/afbeelding3.jpeg)
+![Afbeelding 3](images/Afbeelding3.jpeg)
 
-![Afbeelding 4](images/afbeelding4.jpeg)
+![Afbeelding 4](images/Afbeelding4.jpeg)
 
 # 2. Mijn proces
 
