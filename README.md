@@ -117,6 +117,16 @@ Hieronder staan enkele afbeeldingen van mijn prototype tijdens de ontwikkeling.
 
 *Figuur 3: Een volgende versie van het prototype.*
 
+<img width="563" height="560" alt="image" src="https://github.com/user-attachments/assets/46e79ca3-c86e-41ac-8d73-e20af2842a74" />
+*Figuur 4: Code snippet*
+
+<img width="1362" height="577" alt="image" src="https://github.com/user-attachments/assets/4a4cd8c6-0513-4bbe-8d55-c5f4adc5b675" />
+*Figuur 5: Code snippet*
+
+<img width="645" height="798" alt="image" src="https://github.com/user-attachments/assets/a64db649-4fff-41d9-b1eb-2ea45e18f98b" />
+*Figuur 6: Code snippet*
+
+
 ## 2.3 De ontwikkeling van de AI en het gesprek
 
 Ik heb ervoor gekozen om nog geen echte AI of LLM te gebruiken. In plaats daarvan heb ik een gesimuleerde AI gemaakt met vooraf geschreven reacties en verschillende gespreksmomenten. Hierdoor kan ik zelf bepalen hoe de teddybeer reageert en hoe het gesprek zich ontwikkelt. Ook hoef ik hiervoor geen API of API-key te gebruiken.
