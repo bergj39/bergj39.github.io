@@ -184,5 +184,11 @@ Ik ben verantwoordelijk voor het ontwikkelen van mijn individuele onderdeel van 
 - Het verwerken van Dark Tech-thema's in een digitaal prototype
 
 ---
+### Sprint 3
+Tijdens onze meeting op dinsdag hebben we formulier ingevuld over onze bijdrage in het team ! Dit was een goede reality check om te zien waar we allemaal mee bezig zijn geweest en of er mensen iets meer doen dan de rest.
+<img width="1404" height="1871" alt="image" src="https://github.com/user-attachments/assets/37d60076-ea75-45c0-87f7-a143fdfe1543" />
+<img width="1404" height="1871" alt="image" src="https://github.com/user-attachments/assets/4a14e9b9-98c4-48f5-9252-ae42c4fb3c20" />
+
+
 
 
