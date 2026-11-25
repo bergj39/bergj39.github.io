@@ -72,7 +72,7 @@ Voor Sprint 2 wil ik vooral de stap maken van denken naar doen. Ik wil meer gaan
 
 # Dark Tech Studio · Sprint 2
 
-# Wat heb ik deze sprint gebouwd?
+# Waar heb ik deze sprint aan gewerkt?
 
 Deze sprint ben ik begonnen met het daadwerkelijk bouwen van mijn individuele onderdeel van het Dark Tech-project: de AI-teddybeer. Ik ben opnieuw vanaf nul begonnen met het prototype, omdat ik een duidelijkere richting wilde voor de manier waarop de gebruiker met de teddybeer communiceert.
 
@@ -90,13 +90,13 @@ Het doel hiervan is om te laten zien hoe een technologie die in eerste instantie
 
 # Mijn ontwikkelproces
 
-## 2.1 Het concept en design van de teddybeer
+## Het concept en design van de teddybeer
 
 Een belangrijk onderdeel van mijn prototype is de fysieke teddybeer. Ik heb gekozen voor een teddybeer omdat dit een herkenbaar en vertrouwd object is voor kinderen. Hierdoor ontstaat er een contrast tussen het vriendelijke uiterlijk van de knuffel en het gedrag van de AI.
 
 De teddybeer staat naast de laptop. Hierdoor wordt de indruk gewekt dat de knuffel zelf met het kind communiceert. Juist dat contrast vind ik interessant: een object dat normaal gesproken veiligheid en vertrouwen uitstraalt, kan ook een ongemakkelijke rol krijgen.
 
-## 2.2 Het ontwikkelen van de chatinterface
+## Het ontwikkelen van de chatinterface
 
 Ik heb ervoor gekozen om het gesprek via een laptop te laten verlopen. De interface heb ik bewust simpel gehouden. De gebruiker ziet voornamelijk de chat en kan via deze omgeving reageren op Teddy.
 
@@ -128,7 +128,7 @@ Hieronder staan enkele afbeeldingen van mijn prototype tijdens de ontwikkeling.
 
 *Figuur 6: Code snippet.*
 
-## 2.3 De ontwikkeling van de AI en het gesprek
+## De ontwikkeling van de AI en het gesprek
 
 Ik heb ervoor gekozen om nog geen echte AI of LLM te gebruiken. In plaats daarvan heb ik een gesimuleerde AI gemaakt met vooraf geschreven reacties en verschillende gespreksmomenten. Hierdoor kan ik zelf bepalen hoe de teddybeer reageert en hoe het gesprek zich ontwikkelt. Ook hoef ik hiervoor geen API of API-key te gebruiken.
 
@@ -140,7 +140,7 @@ Een uitdaging was om het gesprek natuurlijk te laten aanvoelen. Omdat ik geen ec
 
 Ook vond ik het lastig om de overgang tussen de vriendelijke en donkere kant goed op te bouwen. De verandering mag niet te snel gebeuren, omdat het juist interessant is wanneer de gebruiker eerst vertrouwen krijgt in de teddybeer.
 
-## 2.4 De technische ontwikkeling
+## De technische ontwikkeling
 
 Tijdens het programmeren wilde ik voorkomen dat het gesprek één lange reeks vaste berichten zou worden. Ik wilde dat de antwoorden van de gebruiker invloed hebben op wat de teddybeer later zegt.
 
@@ -150,7 +150,7 @@ Door het prototype op te splitsen in kleinere onderdelen blijft de gespreksstruc
 
 Een ander technisch onderdeel dat ik verder wil ontwikkelen, is het opslaan van alle gemaakte keuzes en antwoorden. Op dit moment wil ik ervoor zorgen dat deze informatie niet verloren gaat wanneer de pagina wordt vernieuwd. Dit is belangrijk omdat ik achteraf wil kunnen terugzien welke keuzes gebruikers hebben gemaakt.
 
-# 3. Waar loop ik nog tegenaan?
+# Waar loop ik nog tegenaan?
 
 Hoewel de basis van het prototype steeds duidelijker wordt, zijn er nog een aantal dingen die ik verder wil ontwikkelen.
 
@@ -160,7 +160,7 @@ Daarnaast wil ik onderzoeken of het gesprek voldoende natuurlijk overkomt. Omdat
 
 Ook twijfel ik nog over hoe duidelijk de overgang naar de donkere kant moet zijn. Ik wil dat de gebruiker eerst vertrouwen krijgt in de teddybeer, maar uiteindelijk wel merkt dat er iets niet helemaal klopt.
 
-# 4. Volgende sprint
+# Volgende sprint
 
 In de volgende sprint wil ik mij richten op het verder ontwikkelen van de chat en het opslaan van gebruikerskeuzes. Daarnaast wil ik het prototype testen met andere gebruikers om te kijken hoe zij op de teddybeer reageren.
 
@@ -168,7 +168,7 @@ Ook wil ik nieuw beeldmateriaal verzamelen van het prototype. Hierbij wil ik ond
 
 Mijn doel voor de volgende sprint is om van de huidige basis een prototype te maken waarmee ik daadwerkelijk kan onderzoeken hoe kinderen en andere gebruikers reageren op een AI-teddy die steeds persoonlijker en manipulatiever wordt.
 
-# 5. Mijn rol en vaardigheden
+# Mijn rol en vaardigheden
 
 **Mijn rol binnen het project:**
 
@@ -185,8 +185,6 @@ Ik ben verantwoordelijk voor het ontwikkelen van mijn individuele onderdeel van 
 ---
 
 # Dark Tech Studio · Sprint 3
-
-# Van de AI-teddybeer naar het adviesrapport en ouderdashboard
 
 ## Waar heb ik deze sprint aan gewerkt?
 
