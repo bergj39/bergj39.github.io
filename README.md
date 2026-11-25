@@ -351,9 +351,11 @@ Door hiermee aan de slag te gaan, heb ik geleerd hoe ik onderdelen met elkaar ka
 
 Het was even wennen, omdat ik niet alleen achter mijn laptop bezig was, maar ook praktisch met de hardware moest werken. Ik heb hierdoor iets nieuws geleerd wat ik normaal niet zo snel zou tegenkomen tijdens het programmeren.
 
-<img src="https://github.com/user-attachments/assets/37d60076-ea75-45c0-87f7-a143fdfe1543" alt="Solderen tijdens het ontwikkelen van de teddybeer" width="400" style="max-width: 100%; height: auto;" />
-
-<img src="https://github.com/user-attachments/assets/4a14e9b9-98c4-48f5-9252-ae42c4fb3c20" alt="Hardware en soldeerwerk van de teddybeer" width="400" style="max-width: 100%; height: auto;" />
+<p align="center">
+  <img src="images/Sold1.jpeg" width="250">
+  <img src="images/Sold2.jpeg" width="250">
+  <img src="images/Sold3.jpeg" width="250">
+</p>
 
 ## Wat heb ik deze sprint geleerd?
 
