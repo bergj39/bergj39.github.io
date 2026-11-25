@@ -354,7 +354,7 @@ Het was even wennen, omdat ik niet alleen achter mijn laptop bezig was, maar ook
 <p align="center">
   <img src="images/Sold1.jpeg" width="250">
   <img src="images/Sold2.jpeg" width="250">
-  <img src="images/Sold3.jpeg" width="250">
+  <img src="images/sold3.jpeg" width="250">
 </p>
 
 ## Wat heb ik deze sprint geleerd?
