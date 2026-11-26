@@ -327,7 +327,7 @@ function setTheme(name, save) {
 
 Ik heb geleerd dat CSS-variabelen handig zijn wanneer meerdere onderdelen van een pagina dezelfde kleuren gebruiken. In plaats van overal losse kleurcodes te veranderen, kan ik de variabelen aanpassen en verandert het thema op meerdere plekken tegelijk.
 
-<img src="images/Dashboard.png" alt="Dashboard proto" width="350" style="max-width: 100%; height: auto;" />
+<img src="images/Dashboard" alt="Dashboard proto" width="350" style="max-width: 100%; height: auto;" />
 
 ## Waar liep ik tegenaan?
 
