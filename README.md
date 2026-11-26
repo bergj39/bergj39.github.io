@@ -327,6 +327,8 @@ function setTheme(name, save) {
 
 Ik heb geleerd dat CSS-variabelen handig zijn wanneer meerdere onderdelen van een pagina dezelfde kleuren gebruiken. In plaats van overal losse kleurcodes te veranderen, kan ik de variabelen aanpassen en verandert het thema op meerdere plekken tegelijk.
 
+<img src="images/Dashboard.png" alt="Dashboard proto" width="350" style="max-width: 100%; height: auto;" />
+
 ## Waar liep ik tegenaan?
 
 Een uitdaging was om de verschillende soorten informatie op een duidelijke manier te presenteren. Niet iedere waarde past goed in dezelfde grafiek. Daarom heb ik verschillende kaarttypen gebruikt, zoals een donutgrafiek, staafgrafieken en horizontale balken. Ik moest daarbij goed opletten dat het dashboard niet te druk werd en dat de informatie nog steeds snel te begrijpen was.
